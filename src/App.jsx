@@ -1,5 +1,5 @@
 import "./App.css";
-
+import ExternalScript from "./ExternalScript";
 function App() {
   return (
     <>
@@ -10,6 +10,7 @@ function App() {
           frameBorder="0"
           allowFullScreen
         ></iframe>
+        <ExternalScript />
       </div>
     </>
   );

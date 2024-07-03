@@ -10,6 +10,8 @@ function App() {
           frameBorder="0"
           allowFullScreen
         ></iframe>
+      </div>
+      <div>
         <ExternalScript />
       </div>
     </>

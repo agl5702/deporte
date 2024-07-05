@@ -6,7 +6,7 @@ function App() {
       <h1>Bienvenido, disfruta de tu partido</h1>
       <div className="iframe-container">
         <iframe
-          src="https://www.capofut.net/play/premier4.php"
+          src="https://www.capofut.net/play/extremohuawei.php"
           frameBorder="0"
           allowFullScreen
         ></iframe>
